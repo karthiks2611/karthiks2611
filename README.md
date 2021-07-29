@@ -15,7 +15,7 @@
 
 ## Languages and Frameworks:
 [<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
-[<img src="https://simpleicons.org/icons/c.svg" width="50px" alt="" align="left" >]()
+[<img src="https://simpleicons.org/icons/c.svg" width="50px" alt="" align="left" >](https://www.cprogramming.com/)
 [<img src="https://simpleicons.org/icons/css3.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://simpleicons.org/icons/java.svg" width="50px" alt="" align="left">](https://www.javatpoint.com/java-tutorial)
