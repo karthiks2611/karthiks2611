@@ -19,6 +19,7 @@
 [<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://simpleicons.org/icons/java.svg" width="50px" alt="" align="left">](https://www.javatpoint.com/java-tutorial)
 [<img src="https://simpleicons.org/icons/python.svg" width="50px" alt="" align="left" >](https://www.python.org/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50px" alt="" align="left" >](https://www.java.com/en/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="50px" alt="" align="left" >](https://www.gnu.org/software/bash/)
 [<img src="https://simpleicons.org/icons/javascript.svg" width="50px" alt="" align="left" >](https://www.javascripttutorial.net/)
 <br />
@@ -26,6 +27,7 @@
 <br />
 <br />
 
+![Karthik's github activity graph](https://activity-graph.herokuapp.com/graph?username=karthiks2611&theme=react-dark)
 ## Find me on:
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/karthik-s-25a75b1b9/)  
 <!--
